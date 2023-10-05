@@ -20,7 +20,7 @@ Isaac Faulkner - Scribe
 Iwf2@nau.edu
 
 ## Repositories
-[Sensitivity: Public]
+[Sensitivity: Private]
 **.github**
 https://github.com/Operation-RM/.github
 
