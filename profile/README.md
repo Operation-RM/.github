@@ -31,3 +31,9 @@ https://github.com/Operation-RM/.github
 https://github.com/Operation-RM/Operation-RM-Website
 
 *Repository for website code*
+
+[Sensitivity: UNCLASSIFIED - GDMS Proprietary]
+**Simulator-API**
+https://github.com/Operation-RM/Simulator-API
+
+*Repository for simulator API source code*
