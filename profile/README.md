@@ -1,5 +1,7 @@
 # Operation RM
 
+![Operation_RM_Logo](https://github.com/Operation-RM/.github/assets/35905481/e2076775-6e8d-41a3-b704-8c43c48fe9c9)
+
 ## Overview
 NAU Capstone Group developing a SDR (Software Defined Radio) android interface for General Dynamics Mission Systems.
 
